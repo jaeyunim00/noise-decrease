@@ -11,6 +11,11 @@ python = "^3.12"
 flask = "^3.0.3"
 pyserial = "^3.5"
 gunicorn = "^23.0.0"
+numpy = "^2.1.0"
+sounddevice = "^0.5.0"
+flask-socketio = "^5.3.6"
+websockets = "^13.0"
+eventlet = "^0.36.1"
 
 
 [build-system]

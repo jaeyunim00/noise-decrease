@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>🚇공사 소음 상쇄 프로젝트🏗️</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 <body>
@@ -36,6 +38,9 @@
       </div>
       <div class="analog-signal-chart">
         <p>역위상 아날로그 변환(보기용) 📈</p>
+      </div>
+      <div class="ai-chart">
+        <p>역위상 출력 AI 🤖</p>
       </div>
     </div>  
     <script defer src="{{ url_for('static', filename='js/script.js') }}"></script>

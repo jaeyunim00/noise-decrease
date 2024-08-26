@@ -118,3 +118,12 @@ canvas {
 .infinity {
   margin-left: 15px;
 }
+
+.ai-chart {
+  width: 700px;
+  height: 500px;
+}
+
+.ai-chart p {
+  font-weight: 700;
+}
