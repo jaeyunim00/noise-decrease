@@ -28,13 +28,13 @@
 - 개발팀원에게 파동의 모양에 대한 데이터를 받고 이를 시각화 하는데 성공함
   
 (다음은 샘플 데이터임)
-![alt text](image-1.png)
+![alt text](/readmeImg/image-1.png)
 
 (차트를 이용한 시각화)
-![alt text](image-2.png)
+![alt text](/readmeImg/image-2.png)
 
 ### 8월 20일
 - 시각화한 데이터를 음성으로 출력하기 위해 AudioContect 연구 및 공부
 - 구현 완료(인공지능 모델에 대한 완성이 아직 진행 중인 관계로 테스트 X)
 
-![alt text](image-4.png)
+![alt text](/readmeImg/image-4.png)
